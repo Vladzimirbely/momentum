@@ -17,6 +17,7 @@ body {
   color: #fff;
   text-align: center;
   background-blend-mode: multiply;
+  background-size: cover;
   transition: background-image 1s ease-in-out;
 }
 
